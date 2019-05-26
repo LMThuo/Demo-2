@@ -1,2 +1,1 @@
-# Demo-2
-Demo 2 repository!
+I'm learning how to push my commits to the github repository.
